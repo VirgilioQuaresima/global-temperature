@@ -1,0 +1,62 @@
+.header-title {
+  font-size: 48px;
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(23, 23, 116);
+  margin-left: 8pt;
+}
+
+h2 {
+  font-size: 24px;
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(23, 23, 116);
+  margin-left: 8pt;
+}
+
+p {
+  font-size: 16px;
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(0, 0, 0);
+  font-weight: 400;
+  margin-left: 14pt;
+}
+
+html {
+  background-color: rgb(252, 245, 234);
+}
+.dropdown {
+  margin-bottom: 5pt;
+}
+
+.icon {
+  width: 20%;
+  height: 20%;
+}
+
+button {
+  margin-left: 80%;
+  width: 10%;
+  align-items: center;
+  justify-content: space-between;
+  display: inline-flex;
+}
+
+.dropdown {
+  width: 250%;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
+
+.dropdown-form {
+  display: flex;
+  justify-content: space-around;
+  width: 60%;
+  margin-left: 20%;
+}
+
+.menu-title {
+  margin-top: 5pt;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  font-weight: bold;
+}
